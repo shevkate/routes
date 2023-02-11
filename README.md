@@ -1,4 +1,4 @@
-# test_rosneft
+# test_
 
 ## Project setup
 ```
